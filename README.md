@@ -1,4 +1,4 @@
-# House-Price-Prediction-
+# House-Price-Prediction
 Utilizing regression analysis on a raw dataset, to accurately predicts house prices, empowering users with invaluable insights for informed real estate decisions.
 
 About:
@@ -24,6 +24,11 @@ Step 2:  Once uploaded, for Google Colab run every cell starting from the first 
          Install the required libraries as given in the above links and then after installtion start the procedure to run the cells from the "import" statements and similarly run all the required cells for execution.
          
 Step 3:  Analyse the graph and the dataset along with the expected and predicted values calculated for the specific entry in the .csv file.
+
+
+![](obs1.png)
+
+![](obs2.png)
 
 
 
